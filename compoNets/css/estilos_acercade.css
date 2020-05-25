@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Tamma+2&display=swap');
+
+.acerca {
+	font-family: 'Baloo Tamma 2';
+	font-size: 30px;
+	text-align: justify;
+	justify-content: center;
+	padding: 200px;
+	padding-bottom: 60px;
+}
